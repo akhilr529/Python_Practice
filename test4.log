@@ -1,0 +1,5 @@
+19/04/2025 03:29:13 PM:CRITICAL:Test4logger:It is critical message from test4 module
+19/04/2025 03:29:13 PM:ERROR:Test4logger:This is error message from test4 module
+19/04/2025 03:29:13 PM:WARNING:Test4logger:This is warning message from test4 module
+19/04/2025 03:29:13 PM:INFO:Test4logger:This is info message from test4 module
+19/04/2025 03:29:13 PM:DEBUG:Test4logger:It is debug message from test4 module

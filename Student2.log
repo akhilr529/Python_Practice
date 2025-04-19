@@ -1,0 +1,5 @@
+19/04/2025 03:29:13 PM:CRITICAL:Studentlogger:It is critical message from student2 module
+19/04/2025 03:29:13 PM:ERROR:Studentlogger:This is error message from student2 module
+19/04/2025 03:29:13 PM:WARNING:Studentlogger:This is warning message from student2 module
+19/04/2025 03:29:13 PM:INFO:Studentlogger:This is info message from student2 module
+19/04/2025 03:29:13 PM:DEBUG:Studentlogger:It is debug message from student2 module

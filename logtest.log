@@ -1,0 +1,5 @@
+19/04/2025 03:04:05 PM:CRITICAL:logtestlogger:Critical message from test6 module
+19/04/2025 03:04:05 PM:ERROR:logtestlogger:Error message from test6 module
+19/04/2025 03:04:05 PM:WARNING:logtestlogger:Warning message from test6 module
+19/04/2025 03:04:05 PM:INFO:logtestlogger:info message from test6 module
+19/04/2025 03:04:05 PM:DEBUG:logtestlogger:debug message from test6 module

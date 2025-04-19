@@ -1,0 +1,35 @@
+19/04/2025  12:44:51 PM: INFO: A new request come
+19/04/2025  12:44:55 PM: ERROR: invalid literal for int() with base 10: 'j'
+Traceback (most recent call last):
+  File "C:\Users\akhil\AppData\Local\Temp\ipykernel_8076\3475467204.py", line 8, in <module>
+    y = int(input("Enter second number"))
+ValueError: invalid literal for int() with base 10: 'j'
+19/04/2025  12:44:55 PM: INFO: Request Processing completed.
+19/04/2025  12:45:36 PM: INFO: A new request come
+19/04/2025  12:45:40 PM: ERROR: division by zero
+Traceback (most recent call last):
+  File "C:\Users\akhil\AppData\Local\Temp\ipykernel_8076\3475467204.py", line 9, in <module>
+    print("The Result :", x/y)
+ZeroDivisionError: division by zero
+19/04/2025  12:45:40 PM: INFO: Request Processing completed.
+19/04/2025  12:45:53 PM: INFO: A new request come
+19/04/2025  12:45:57 PM: INFO: Request Processing completed.
+19/04/2025  12:46:35 PM: CRITICAL: This is critical message
+19/04/2025  12:46:35 PM: ERROR: This is error message
+19/04/2025  12:46:35 PM: WARNING: This is warning message
+19/04/2025  12:46:35 PM: INFO: This is info message
+19/04/2025  02:59:33 PM: CRITICAL: It is critical message
+19/04/2025  02:59:33 PM: ERROR: This is error message
+19/04/2025  02:59:33 PM: WARNING: This is warning message
+19/04/2025  02:59:33 PM: INFO: This is info message
+19/04/2025  02:59:33 PM: DEBUG: It is debug message
+19/04/2025  02:59:47 PM: CRITICAL: It is critical message
+19/04/2025  02:59:47 PM: ERROR: This is error message
+19/04/2025  02:59:47 PM: WARNING: This is warning message
+19/04/2025  02:59:47 PM: INFO: This is info message
+19/04/2025  02:59:47 PM: DEBUG: It is debug message
+19/04/2025  03:00:00 PM: CRITICAL: It is critical message
+19/04/2025  03:00:00 PM: ERROR: This is error message
+19/04/2025  03:00:00 PM: WARNING: This is warning message
+19/04/2025  03:00:00 PM: INFO: This is info message
+19/04/2025  03:00:00 PM: DEBUG: It is debug message

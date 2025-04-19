@@ -1,0 +1,16 @@
+19/04/2025 03:04:49 PM:CRITICAL:logtestlogger:Critical message from test6 module
+19/04/2025 03:04:49 PM:ERROR:logtestlogger:Error message from test6 module
+19/04/2025 03:04:49 PM:WARNING:logtestlogger:Warning message from test6 module
+19/04/2025 03:04:49 PM:INFO:logtestlogger:info message from test6 module
+19/04/2025 03:04:49 PM:DEBUG:logtestlogger:debug message from test6 module
+19/04/2025 03:04:59 PM:CRITICAL:logstudentlogger:Critical message from student3 module
+19/04/2025 03:04:59 PM:ERROR:logstudentlogger:Error message from student3 module
+19/04/2025 03:04:59 PM:WARNING:logstudentlogger:Warning message from student3 module
+19/04/2025 04:04:47 PM:CRITICAL:f1logger:Critical message from f1
+19/04/2025 04:04:47 PM:ERROR:f1logger:Error message from f1
+19/04/2025 04:04:47 PM:WARNING:f1logger:Warning message from f1
+19/04/2025 04:04:47 PM:CRITICAL:f2logger:Critical message from f2
+19/04/2025 04:04:47 PM:ERROR:f2logger:Error message from f2
+19/04/2025 04:04:47 PM:WARNING:f2logger:Warning message from f2
+19/04/2025 04:04:47 PM:INFO:f2logger:info message from f2
+19/04/2025 04:04:47 PM:DEBUG:f2logger:debug message from f2

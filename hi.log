@@ -1,0 +1,5 @@
+19/04/2025 03:04:09 PM:CRITICAL:Demologger:It is critical message
+19/04/2025 03:04:09 PM:ERROR:Demologger:This is error message
+19/04/2025 03:04:09 PM:WARNING:Demologger:This is warning message
+19/04/2025 03:04:09 PM:INFO:Demologger:This is info message
+19/04/2025 03:04:09 PM:DEBUG:Demologger:It is debug message
