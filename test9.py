@@ -1,0 +1,1 @@
+print("This is the sample program in the test9.py")
