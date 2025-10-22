@@ -1,0 +1,17 @@
+20/10/2025 11:09:34 AM:CRITICAL:logtestlogger:It is critical message from test_1 module
+20/10/2025 11:09:34 AM:ERROR:logtestlogger:It is error message from test_1 module
+20/10/2025 11:09:34 AM:WARNING:logtestlogger:It is warning message from test_1 module
+20/10/2025 11:09:34 AM:INFO:logtestlogger:It is info message from test_1 module
+20/10/2025 11:09:34 AM:DEBUG:logtestlogger:It is debug message from test_1 module
+20/10/2025 11:11:40 AM:CRITICAL:logstudentlogger:It is critical message from student_1 module
+20/10/2025 11:11:40 AM:ERROR:logstudentlogger:It is error message from student_1 module
+20/10/2025 11:13:43 AM:CRITICAL:f1logger:It is critical message from test_1 module
+20/10/2025 11:13:43 AM:ERROR:f1logger:It is error message from test_1 module
+20/10/2025 11:13:43 AM:WARNING:f1logger:It is warning message from test_1 module
+20/10/2025 11:13:43 AM:INFO:f1logger:It is info message from test_1 module
+20/10/2025 11:13:43 AM:DEBUG:f1logger:It is debug message from test_1 module
+20/10/2025 11:13:43 AM:CRITICAL:f2logger:It is critical message from test_1 module
+20/10/2025 11:13:43 AM:ERROR:f2logger:It is error message from test_1 module
+20/10/2025 11:13:43 AM:WARNING:f2logger:It is warning message from test_1 module
+20/10/2025 11:13:43 AM:CRITICAL:f3logger:It is critical message from test_1 module
+20/10/2025 11:13:43 AM:ERROR:f3logger:It is error message from test_1 module

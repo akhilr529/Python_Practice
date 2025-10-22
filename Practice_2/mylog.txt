@@ -1,0 +1,19 @@
+20/10/2025 10:02:50 AM:INFO:A new request came
+20/10/2025 10:02:54 AM:INFO:Request processing completed
+20/10/2025 10:03:02 AM:INFO:A new request came
+20/10/2025 10:03:07 AM:INFO:Request processing completed
+20/10/2025 10:03:11 AM:INFO:A new request came
+20/10/2025 10:03:17 AM:ERROR:division by zero
+Traceback (most recent call last):
+  File "C:\Users\akhil\AppData\Local\Temp\ipykernel_8124\1101662360.py", line 7, in <module>
+    print("The result is", x/y)
+                           ~^~
+ZeroDivisionError: division by zero
+20/10/2025 10:03:17 AM:INFO:Request processing completed
+20/10/2025 10:03:19 AM:INFO:A new request came
+20/10/2025 10:03:29 AM:ERROR:invalid literal for int() with base 10: 'two'
+Traceback (most recent call last):
+  File "C:\Users\akhil\AppData\Local\Temp\ipykernel_8124\1101662360.py", line 6, in <module>
+    y = int(input("Enter second number"))
+ValueError: invalid literal for int() with base 10: 'two'
+20/10/2025 10:03:29 AM:INFO:Request processing completed

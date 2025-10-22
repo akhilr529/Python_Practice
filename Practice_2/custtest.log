@@ -1,0 +1,5 @@
+20/10/2025 10:24:43 AM:CRITICAL:demologer:It is critical message
+20/10/2025 10:24:43 AM:ERROR:demologer:It is error message
+20/10/2025 10:24:43 AM:WARNING:demologer:It is warning message
+20/10/2025 10:24:43 AM:INFO:demologer:It is info message
+20/10/2025 10:24:43 AM:DEBUG:demologer:It is debug message

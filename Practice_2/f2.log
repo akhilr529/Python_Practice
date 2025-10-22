@@ -1,0 +1,3 @@
+20/10/2025 11:15:45 AM:CRITICAL:f2logger:It is critical message from test_1 module
+20/10/2025 11:15:45 AM:ERROR:f2logger:It is error message from test_1 module
+20/10/2025 11:15:45 AM:WARNING:f2logger:It is warning message from test_1 module
